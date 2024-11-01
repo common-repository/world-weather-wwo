@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: world_weather_2046_DOM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-19 09:35+0100\n"
+"PO-Revision-Date: 2012-09-19 09:35+0100\n"
+"Last-Translator: 2046 <2046@2046.cz>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /media/data/PROJEKTY/2046-world-weather/SVN/trunk\n"
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:73
+msgid "Show the weather from a location you specify."
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:74
+msgid "World weather"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:100
+msgid "WORLD WEATHER ONLINE - API:"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:102
+msgid "Get yours on: <a target=\"_blank\" href=\"http://www.worldweatheronline.com/register.aspx\">Weatheronline.com</a>"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:105
+msgid "Title:"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:107
+msgid "This will override the display of the city name."
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:111
+msgid "City, town, postcode or zip code:"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:116
+msgid "Widget display:"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:118
+msgid "Compact"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:119
+msgid "Extended"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:123
+msgid "Image set"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:135
+msgid "Each icon set is released under certain rights. Check the plugin description for more info."
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:138
+msgid "Show forecast for:"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:141
+msgid "Today only"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:141
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:146
+msgid "How often do we check the weather (mins):"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:153
+msgid "Show temperature in celsius"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:159
+msgid "Output CSS"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:165
+msgid "If you do not have the commercial license from <a href=\"http://www.worldweatheronline.com/\">WWO</a> you ought link to them!</br>This checkbox will do it for you."
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:169
+#, php-format
+msgid "Last updated \"%1$s\". Current server time is \"%2$s\"."
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:169
+#, php-format
+msgid "Will update when the frontend is next loaded. Current server time is %2$s."
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:173
+#, php-format
+msgid "The last error occured at \"%s\" with the message \"%s\"."
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:174
+msgid "Clear errors: "
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:265
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:284
+msgid "Today"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:297
+#, php-format
+msgid "Last updated at %1$s on %2$s"
+msgstr ""
+
+#: /media/data/PROJEKTY/2046-world-weather/SVN/trunk/2046-world-weather.php:301
+msgid "Weather by <a href=\"http://www.worldweatheronline.com/\" title=\"http://www.worldweatheronline.com/\">World Weather Online</a><span class=\"by_2046\"><br />plugin by <a href=\"http://2046.cz\">2046</a>"
+msgstr ""
+
